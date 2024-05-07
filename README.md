@@ -69,7 +69,7 @@ There are numerous ways to contribute to Admidio:
 
 - **Forum Support**: Share your knowledge and help fellow users in the [forum](https://forum.admidio.org).
 - **Documentation**: Contribute to our [documentation](https://www.admidio.org/dokuwiki/doku.php?id=en:2.0:index) and improve user resources.
-- **Translations**: Translate Admidio into other languages or update existing translations. You can also translate our [documentation](https://www.admidio.org/dokuwiki/doku.php?id=en:2.0:index) into English.
+- **Translations**: Translate Admidio into other languages or update existing translations. You can also translate our [documentation](https://www.admidio.org/dokuwiki/doku.php?id=en:2.0:index) into English. (P.S. Added russian translation via [Transifex](https://explore.transifex.com/admidio/program/#:~:text=26%25-,Russian,-15%25))
 - **Development**: If you have PHP programming skills and knowledge of HTML, CSS, and JavaScript, you can help improve Admidio. Find our software on GitHub and learn about contributing in our [wiki](https://www.admidio.org/dokuwiki/doku.php?id=en:entwickler:fehlerkorrekturen_in_mehreren_versionen).
 
 If you identify with any of the above roles, we invite you to join our team and contribute to making Admidio one of the best free membership software solutions.
